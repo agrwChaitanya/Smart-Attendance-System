@@ -1,4 +1,7 @@
 # Smart Attendance System
+
+### Created By: Chaitanya Agarwal 24BAI10341
+
 ## Overview 
 The **Smart Attendance Management System** is a Java-based desktop application built using **Swing GUI** that helps manage student attendance efficiently while providing useful analytical insights.
 
